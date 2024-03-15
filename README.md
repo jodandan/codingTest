@@ -1,0 +1,2 @@
+# codingTest
+codingTest_practice_with_JavaScript
